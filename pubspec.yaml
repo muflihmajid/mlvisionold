@@ -23,7 +23,7 @@ dependencies:
     git:
       url: git://github.com/muflihmajid/plugins.git # camera-flash #
       path: packages/camera
-      ref: camera-flash
+      ref: main
 
 dev_dependencies:
   flutter_test:
